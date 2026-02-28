@@ -4,7 +4,7 @@
                                                                                                                                                                                          
 
 <div align="center">                                                            
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=2000&pause=1000&color=00FF7F&center=true&vCenter=true&width=500&lines=Salom+men+Qadamboyev+Zuhriddin;IT+Sohasiga+Qizqaman;Maqsadim+Web+Dasturchi+bolish" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=2000&pause=1000&color=00FF7F&center=true&vCenter=true&width=500&lines=Salom+men+Baxtiyorov+Ixtiyorbek;IT+Sohasiga+Qizqaman;Maqsadim+Web+Dasturchi+bolish" alt="Typing SVG"/>
 </div>
 
 
@@ -46,12 +46,12 @@
 <h2 align="center">github stats</h2>
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Zuhriddin2010&theme=dark&hide_border=true&exclude_days=Tue" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=Ixtiyorbek19&theme=dark&hide_border=true&exclude_days=Tue" alt="GitHub Streak" />
   </a>
 </div>
 
 
-![My Contributions Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zuhriddin2010&theme=react-dark&bg_color=000000&color=ffffff&line=ff6b6b&point=ffffff&hide_border=true)
+![My Contributions Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ixtiyorbek19&theme=react-dark&bg_color=000000&color=ffffff&line=ff6b6b&point=ffffff&hide_border=true)
 
 
 
