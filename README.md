@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=SALOM%20👋&fontSize=40&fontAlignY=35&animation=twinkling"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm YOUR_NAME</h1>
+<h1 align="center">Hi 👋, I'm Ixtiyorbek</h1>
 <h3 align="center">🚀 Creative Developer | 💻 Full Stack | 🎨 UI/UX Lover</h3>
 
 ---
@@ -51,10 +51,9 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://t.me/YOUR_USERNAME"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://instagram.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://t.me/Ixtiyorbek∞Baxtiyorov"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://instagram.com/ixa_bro0"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+
 </p>
 
 ---
@@ -76,7 +75,7 @@
 ---
 
 <p align="center">
-  ⭐ From YOUR_NAME with ❤️
+  ⭐ From Ixtiyorbek with ❤️
 </p>
 
 <p align="center">
