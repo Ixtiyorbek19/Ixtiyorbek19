@@ -9,7 +9,7 @@
 
 
 <div align="center">
-  <img src="https://img.shields.io/github/stars/Zuhriddin2010/Zuhriddin2010?label=STARS&color=gold&style=flat-square" />
+  <img src="https://img.shields.io/github/stars/Ixtiyorbek19/Ixtiyorbek19?label=STARS&color=gold&style=flat-square" />
 </div>
 
 
