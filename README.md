@@ -8,7 +8,9 @@
 </div>
 
 
-
+<div align="center">
+  <img src="https://img.shields.io/github/stars/Zuhriddin2010/Zuhriddin2010?label=STARS&color=gold&style=flat-square" />
+</div>
 
 
 <!-- Visitors and Friends -->              
